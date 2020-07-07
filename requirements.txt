@@ -32,7 +32,6 @@ grpcio==1.27.2
 gunicorn==20.0.4
 h5py==2.10.0
 httplib2==0.17.0
-idm==0.38
 idna==2.9
 imageio==2.8.0
 imageio-ffmpeg==0.4.1
@@ -58,9 +57,6 @@ protobuf==3.11.3
 py==1.8.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAutoGUI==0.9.48
-PyDrive==1.3.1
-pygame==1.9.6
 PyGetWindow==0.0.8
 PyMsgBox==1.0.7
 pyparsing==2.4.6
@@ -74,8 +70,6 @@ pyserial==3.4
 pytest==5.4.1
 PyTweening==1.0.3
 pytz==2019.3
-pywin32==227
-pywinauto==0.6.8
 PyYAML==5.3
 requests==2.23.0
 requests-oauthlib==1.3.0
@@ -85,8 +79,6 @@ six==1.14.0
 soupsieve==2.0
 SQLAlchemy==1.3.16
 sqlparse==0.3.0
-tensorboard==1.12.2
-tensorflow==1.12.0
 termcolor==1.1.0
 tqdm==4.43.0
 uritemplate==3.0.1
