@@ -86,7 +86,7 @@ soupsieve==2.0
 SQLAlchemy==1.3.16
 sqlparse==0.3.0
 tensorboard==1.12.2
-tensorflow==1.12.0
+tensorflow==1.15.2
 termcolor==1.1.0
 tqdm==4.43.0
 uritemplate==3.0.1
