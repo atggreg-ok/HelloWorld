@@ -76,7 +76,7 @@ sqlparse==0.3.0
 termcolor==1.1.0
 tqdm==4.43.0
 uritemplate==3.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.10
 wcwidth==0.1.9
 Werkzeug==1.0.0
